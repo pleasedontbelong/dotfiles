@@ -1,0 +1,12 @@
+[color]
+	ui = true
+[user]
+	name = Pablo Leano
+	email = pleasedontbelong@gmail.com
+[alias]
+	com = ci
+	ci = commit
+	co = checkout
+	br = branch
+	st = status
+	glog = log --pretty=format:'%h %s [%an]' --graph
