@@ -26,3 +26,7 @@ pastefinish() {
 zstyle :bracketed-paste-magic paste-init pasteinit
 zstyle :bracketed-paste-magic paste-finish pastefinish
 ```
+
+## VIM
+- set a .vimrc file https://vim.fandom.com/wiki/Example_vimrc
+- install a plugin manager like https://github.com/junegunn/vim-plug
